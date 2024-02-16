@@ -1,6 +1,6 @@
-# Building history RAG Chatbot Apps in Java with Langchain4j and Qdrant DB
+# Building RAG Chatbot in Java with Langchain4j and Qdrant DB
 This project serves as a boilerplate and an illustration of an RAG chatbot built in Java using the LangChain4j library. 
-The chatbot utilizes Qdrant Db as its Vectorstore. 
+The chatbot utilizes Qdrant Db as its vectorstore. 
 Within this project, you will find implementations of both a Basic RAG chatbot and an Advanced RAG chatbot.
 
 # Technology and Dependencies
@@ -15,7 +15,7 @@ Within this project, you will find implementations of both a Basic RAG chatbot a
 - Launch IntelliJ IDEA on your machine.
 - Open the project in IntelliJ. [Importing project in IntelliJ doc.](https://www.jetbrains.com/help/idea/maven-support.html#maven_import_project_start)
 - Since its a Maven project IntelliJ IDEA will detect the pom.xml file and automatically download the dependencies.
-- In the `ChatConstants` we have declared the variables `QDRANT_GRPC_HOST`, `QDRANT_API_KEY` and `OPENAI_API_KEY` which are reading the values from the environment.
+- In the `ChatConstants` file we have declared the variables `QDRANT_GRPC_HOST`, `QDRANT_API_KEY` and `OPENAI_API_KEY` which read their values from the environment.t.
 - Set all the 3 values in the IntelliJ environment. [Environment variable setup doc.](https://education.launchcode.org/gis-devops/configurations/02-environment-variables-intellij/index.html)
 
 # Running the Chatbot Application
