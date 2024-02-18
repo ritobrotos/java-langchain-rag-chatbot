@@ -27,6 +27,9 @@ Before you start working with this project, make sure you have the following pre
        - Eclipse 
        - IntelliJ IDEA
 
+- ### Vector Store
+  - [Setup Qdrant cloud Free cluster](https://qdrant.tech/documentation/cloud/quickstart-cloud/) 
+
 - ### Build Tool:
     - Apache Maven for building and managing dependencies.
 
