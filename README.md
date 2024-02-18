@@ -10,6 +10,30 @@ Within this project, you will find implementations of both a Basic RAG chatbot a
 4. Qdrant DB
 5. OpenAI
 
+# Prerequisites
+Before you start working with this project, make sure you have the following prerequisites installed:
+
+- ### Operating System:
+    - Compatible with Windows, macOS, or Linux.
+
+- ### Hardware:
+    - A machine with at least 4GB RAM and a dual-core processor.
+
+- ### Java Development Kit (JDK):
+    - Install Java 17 or a compatible version.
+
+- ### Integrated Development Environment (IDE):
+     - (Optional) Choose a Java IDE of your preference:
+       - Eclipse 
+       - IntelliJ IDEA
+
+- ### Build Tool:
+    - Apache Maven for building and managing dependencies.
+
+- ### API Testing Tool:
+    - Postman for testing APIs.
+
+
 # Project Setup in IntelliJ IDEA
 - First download the project using the git clone command. `git clone https://github.com/ritobrotos/java-langchain-rag-chatbot.git`
 - Launch IntelliJ IDEA on your machine.
